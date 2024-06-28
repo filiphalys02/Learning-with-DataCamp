@@ -1,5 +1,5 @@
 ## Hi there!
-### In this repository, you can find Python projects completed as part of career tracks on the DataCamp e-learning platform.
+### In this repository, you can find projects completed as part of career tracks on the DataCamp e-learning platform.
 
 
 Completed career tracks: 
@@ -14,5 +14,5 @@ Completed skill tracks:
 Career tracks in progress:
 -
 - Machine Learning Scientist in Python
-
+- Associate Data Analyst in SQL
 
