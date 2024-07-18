@@ -6,13 +6,15 @@ Completed career tracks:
 -
 - Associate Data Scientist in Python
 - Data Analyst with Python
+- Associate Data Analyst in SQL
 
 Completed skill tracks:
 -
 - Python Fundamentals
+- SQL Fundamentals
 
 Career tracks in progress:
 -
 - Machine Learning Scientist in Python
-- Associate Data Analyst in SQL
+- Associate Data Engineer in SQL
 
