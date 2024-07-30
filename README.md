@@ -7,6 +7,7 @@ Completed career tracks:
 - Associate Data Scientist in Python
 - Data Analyst with Python
 - Associate Data Analyst in SQL
+- Associate Data Engineer in SQL
 
 Completed skill tracks:
 -
