@@ -17,5 +17,4 @@ Completed skill tracks:
 Career tracks in progress:
 -
 - Machine Learning Scientist in Python
-- Associate Data Engineer in SQL
 
